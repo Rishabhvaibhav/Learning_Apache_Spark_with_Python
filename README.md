@@ -8,11 +8,12 @@ you will learn a wide array of concepts about PySpark in Data Mining, Text Minin
 <h2>This is a Shared Repository for Learning Apache Spark Notes</h2>
 Learning Apache Spark is a crucial aspect of modern data science, facilitating the processing of vast datasets efficiently. This shared repository serves as a comprehensive resource, primarily curated by Wenqiang during his IMA Data Science Fellowship. Let's delve into the essence of this repository and its significance.
 
-<h2>Introduction to Learning Apache Spark Notes</h2>
-Overview of the Shared Repository
+<h1><b>Introduction to Learning Apache Spark Notes</b></h1>
+<BR>
+<h2>Overview of the Shared Repository<h2>
 The repository is a culmination of self-learning and self-teaching notes meticulously compiled by Wenqiang. It encapsulates his journey of mastering Apache Spark, a powerful framework for large-scale data processing.
 
-<h2>Purpose of the Repository
+<h2>Purpose of the Repository</h2>
 The primary aim is to provide a structured learning resource for individuals aspiring to delve into Apache Spark. Through detailed examples and code snippets, learners can grasp fundamental concepts and practical implementations effectively.
 
 <h2>Target Audience</h2>
