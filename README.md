@@ -8,9 +8,9 @@ you will learn a wide array of concepts about PySpark in Data Mining, Text Minin
 <h2>This is a Shared Repository for Learning Apache Spark Notes</h2>
 Learning Apache Spark is a crucial aspect of modern data science, facilitating the processing of vast datasets efficiently. This shared repository serves as a comprehensive resource, primarily curated by Wenqiang during his IMA Data Science Fellowship. Let's delve into the essence of this repository and its significance.
 
-<h1><b>Introduction to Learning Apache Spark Notes</b></h1> 📖
+<h1><b>Introduction to Learning Apache Spark Notes📖</b></h1> 
 <BR>
-<h2>Overview of the Shared Repository<h2>
+<h2> Overview of the Shared Repository </h2>
 The repository is a culmination of self-learning and self-teaching notes meticulously compiled by Wenqiang. It encapsulates his journey of mastering Apache Spark, a powerful framework for large-scale data processing.
 
 <h2>Purpose of the Repository</h2>
@@ -19,7 +19,7 @@ The primary aim is to provide a structured learning resource for individuals asp
 <h2>Target Audience</h2>
 This repository caters to a diverse audience, including budding data scientists, software engineers, and enthusiasts eager to harness the potential of Apache Spark.
 
-<h1><b><b>Contents of the Repository</b><b></h1> 💻
+<h1><b><b>Contents of the Repository💻</b><b></h1> 
 <h2>Self-Learning and Self-Teaching Notes</h2>
 Wenqiang's notes encapsulate his learning process, offering insights, tips, and best practices acquired during his exploration of Apache Spark.
 
@@ -29,7 +29,7 @@ Each main function is elucidated through detailed demo code and examples, enhanc
 <h2>Encouragement for Feedback and Contributions</h2>
 The collaborative nature of this repository encourages feedback and contributions from the community. If readers identify areas for improvement or wish to contribute their insights, they are warmly welcomed to do so.
 
-<h1><b>Approach to Tutorial Writing<b></h1> 💡
+<h1><b>Approach to Tutorial Writing💡<b></h1> 
 <h2>Focus on PySpark Programming</h2>
 The tutorials predominantly focus on PySpark programming, leveraging Python's simplicity and Apache Spark's scalability to elucidate complex concepts.
 
